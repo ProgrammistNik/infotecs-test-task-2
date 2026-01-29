@@ -7,8 +7,8 @@
 1. Клонируйте репозиторий и перейдите в проект
 
 ```bash
-    git clone https://github.com/topoff0/infotecs-entry-task
-    cd infotecs-entry-task
+    git clone https://github.com/ProgrammistNik/infotecs-test-task-2.git
+    cd infotecs-test-task-2
 ```
 
 2.  В корне проекта создайте файл `.env` и скопируйте в него содержимое из `.env.example`.
